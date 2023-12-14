@@ -1,11 +1,11 @@
 repo_name: lilcashpl/Vulkan-Tools
-report_id: 2bae3d26290e9a0c69bc1f39c787dfc8
+report_id: 78356ba1e6a3163f21342dc650a05232
 repo_type: Public
-timestamp: '2023-12-02T09:11:40+00:00'
-requested_by: charles-lunarg
+timestamp: '2023-12-14T13:23:36+00:00'
+requested_by: stacksharebot
 provider: github
 branch: main
-detected_tools_count: 10
+detected_tools_count: 12
 tools:
 - name: C lang
   description: One of the most widely used programming languages of all time
@@ -55,6 +55,17 @@ tools:
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
   detection_source: Repo Metadata
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: CMakeLists.txt
+  last_updated_by: Charles Giessen
+  last_updated_on: 2023-06-15 20:05:59.000000000 Z
 - name: CMake
   description: 'An open-source system that manages the build process '
   website_url: http://www.cmake.org/
@@ -84,6 +95,17 @@ tools:
   detection_source: ".github/workflows/tools.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-31 00:16:03.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: CMakeLists.txt
+  last_updated_by: Courtney Goeltzenleuchter
+  last_updated_on: 2014-07-24 14:36:15.000000000 Z
 - name: NSIS
   description: Professional open source system to create Windows installers
   website_url: http://nsis.sourceforge.net/
