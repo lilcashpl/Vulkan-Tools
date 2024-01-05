@@ -1,7 +1,8 @@
 repo_name: lilcashpl/Vulkan-Tools
-report_id: 78356ba1e6a3163f21342dc650a05232
+report_id: 2bae3d26290e9a0c69bc1f39c787dfc8
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:23:36+00:00'
+timestamp: '2024-01-05T08:31:46+00:00'
 requested_by: stacksharebot
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: C++
   description: Has imperative, object-oriented and generic programming features, while
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: GLSL
   description: A high-level C-style language
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6548/default_a66025fbe8f221c489bdaac3a99d84e5f138cbbd.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: Objective-C
   description: The primary programming language you use when writing software for
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -63,6 +69,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools/blob/main/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Charles Giessen
   last_updated_on: 2023-06-15 20:05:59.000000000 Z
@@ -74,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -83,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -92,6 +101,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools/blob/main/.github/workflows/tools.yml
   detection_source: ".github/workflows/tools.yml"
   last_updated_by: dependabot[bot]
   last_updated_on: 2023-10-31 00:16:03.000000000 Z
@@ -103,6 +113,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools/blob/main/CMakeLists.txt
   detection_source: CMakeLists.txt
   last_updated_by: Courtney Goeltzenleuchter
   last_updated_on: 2014-07-24 14:36:15.000000000 Z
@@ -112,6 +123,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/4728/Box.gif
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
@@ -122,4 +134,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/lilcashpl/Vulkan-Tools
   detection_source: Repo Metadata
