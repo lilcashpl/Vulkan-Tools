@@ -2,7 +2,7 @@ repo_name: lilcashpl/Vulkan-Tools
 report_id: 2bae3d26290e9a0c69bc1f39c787dfc8
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:31:46+00:00'
+timestamp: '2024-02-29T18:55:28+00:00'
 requested_by: stacksharebot
 provider: github
 branch: main
@@ -74,7 +74,7 @@ tools:
   last_updated_by: Charles Giessen
   last_updated_on: 2023-06-15 20:05:59.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
